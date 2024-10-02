@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <a href="https://github.com/lowlighter/metrics">
+    <img align="center" src="https://raw.githubusercontent.com/we-worker/we-worker/main/github-metrics.svg" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/lowlighter/metrics">
+    <img align="center" src="https://raw.githubusercontent.com/we-worker/we-worker/main/metrics.plugin.isocalendar.fullyear.svg" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/lowlighter/metrics">
+    <img align="center" src="https://raw.githubusercontent.com/we-worker/we-worker/main/metrics.plugin.languages.details.svg" />
+  </a>
+</p>
